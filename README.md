@@ -1,5 +1,7 @@
 # Java GUI Frameworks Comparison
  
+Compare different Java GUI Frameworks 
+ 
  [![GitHub contributors](https://img.shields.io/github/contributors/cit-iti100-w22/java-gui-frameworks-comparison.svg)](https://github.com/cit-iti100-w22/java-gui-frameworks-comparison/graphs/contributors)
 [![GitHub stars](https://img.shields.io/github/stars/cit-iti100-w22/java-gui-frameworks-comparison.svg)](https://github.com/cit-iti100-w22/java-gui-frameworks-comparison
 )
